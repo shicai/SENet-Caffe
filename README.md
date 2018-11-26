@@ -15,7 +15,7 @@ The top-1/5 accuracy rates by using single center crop (crop size: 224x224, imag
 
 Network|Top-1|Top-5|Download|Architecture
 :---:|:---:|:---:|:---:|:---:
-SE-ResNet-50| 78.01| 94.21| [caffemodel (107 MB)](https://drive.google.com/open?id=0B7ubpZO7HnlCWkwtSG5CdXBKcmc)| [netscope](http://ethereon.github.io/netscope/#/gist/36a20d27cba38695b4a44632d7af608c)
+SE-ResNet-50| 78.01| 94.21| [caffemodel (107 MB)](https://drive.google.com/open?id=0B7ubpZO7HnlCWkwtSG5CdXBKcmc)| [netscope](http://ethereon.github.io/netscope/#/gist/36a20d27cba38695b4a44632d7af608c), [netron](http://lutzroeder.github.io/netron?gist=36a20d27cba38695b4a44632d7af608c)
 
 For your convenience, we also provide a link to this model on [Baidu Disk](https://pan.baidu.com/s/1eSzT6KU).
 
